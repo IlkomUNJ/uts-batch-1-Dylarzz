@@ -135,7 +135,7 @@ fun ContactAppPreview() {
                 email = "adhitya,dava@gmail.com"
             ),
             Contact(
-                name = "Jane Smith",
+                name = "Ryan Basmah",
                 address = "Jl. pulo gadung No. 21 Jakarta Selatan Indonesia",
                 phone = "082112223333",
                 email = "ryan.basmah@gmail.com"
